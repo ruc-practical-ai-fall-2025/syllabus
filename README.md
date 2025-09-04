@@ -18,7 +18,7 @@ This is a hands-on, coding-heavy course. Bringing your own computer is highly re
 
 ### Instructor
 
-**Name**: Mauro Sanchirico
+**Name**: Mauro J. Sanchirico
 
 **Email**: ms3978@rutgers.edu
 
@@ -172,7 +172,7 @@ Our week-to-week schedule is organized as follows, though it is subject to chang
     * Adversarial training
     * Multiple models
 
-#### Thanksgiving Week - No Class 
+#### Thanksgiving Week - No Class
 
 #### 12/05: Class 12 - Final Project
 * Grading rubric
