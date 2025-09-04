@@ -8,7 +8,7 @@
 
 **Office Hours**: Fridays (email for appointments)
 
-**GitHub Classroom**: TODO
+**GitHub Classroom**: [https://classroom.github.com/classrooms/230289903-ruc-practical-ai-fall-2025-classroom](https://classroom.github.com/classrooms/230289903-ruc-practical-ai-fall-2025-classroom)
 
 More information on fall semester schedules: [https://scheduling.rutgers.edu/academic-calendar/](https://scheduling.rutgers.edu/academic-calendar/)
 
@@ -47,13 +47,6 @@ Familiarity with tools including scikit-learn, torch, torch lightning, thunder, 
 This is a hands-on, coding-heavy course. The course is designed to mirror the environment students will encounter when working in a professional machine learning team. Classes will be taught in an interactive manner using GitHub and all assignments will require submitting code using Git. Students should be comfortable installing and setting up tools for software development, or ready to learn to do so quickly. At the end of each class, we will review tools students should install to be prepared for the next class and students are expected to be ready to work with these tools by the next class.
 
 Students should be comfortable modifying code and should be ready to learn to write entirely new code from sets of high-level directions and requirements. Students should be prepared to write professional-quality reports in the form of Jupyter notebooks and GitLab markdown documentation visualizing the results of their assignments. Taking RUC’s Data Management and Visualization course provides helpful background in this but is not a strictly required prerequisite.
-
-### Class Resources
-
-Several guides are provided to help students with this course.
-
-* Setting up a development environment: TODO
-* Using GitHub Codespaces: TODO
 
 ## Grading Policy
 
