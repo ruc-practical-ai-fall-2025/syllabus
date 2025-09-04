@@ -1,4 +1,4 @@
-# Practical AI - Fall 2024
+# Practical AI - Fall 2025
 
 ## Course Information
 
